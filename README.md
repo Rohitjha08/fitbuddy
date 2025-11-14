@@ -12,8 +12,8 @@ Currently this will support only Some limited Boult Models but this will hopeful
 ## Features 🔨
  the features list of fitbuddy will be coming very soon with the best and better features than its  stock bloated boultfit app
  some of the main features which i thought of this app 
- -the best privacy 🔐
- -best ux
+ - the best privacy 🔐
+ - best ux
 
 
 ### Feedback and contact 📞
