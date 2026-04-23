@@ -16,6 +16,12 @@ Currently this will support only Some limited Boult Models but this will hopeful
  - best ux
 
 
+## Journey 
+-bluetooth communication decode
+-communication capture through wireshark
+
+
+
 ### Feedback and contact 📞
 
   If you have any suggestion releated to this app you can contact me 
